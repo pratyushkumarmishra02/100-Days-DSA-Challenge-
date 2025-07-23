@@ -1,4 +1,4 @@
-\# 🚀 Day 1 – DSA Challenge
+# 🚀 Day 1 – DSA Challenge
 
 
 
@@ -16,7 +16,7 @@ Today I started my \*\*100 Days of DSA\*\* journey and solved two important arra
 
 \### 1. 🔢 Two Sum (`TwoSum.java`)
 
-\- \*\*Problem\*\*: Given an array of integers and a target, return indices of two numbers that add up to the target.
+\- \*\*Problem\*\*: Given an array of integers and a target, return the indices of two numbers that add up to the target.
 
 \- \*\*Approach\*\*: Used a `HashMap` to store values and indices for O(n) lookup.
 
@@ -78,7 +78,7 @@ Today I started my \*\*100 Days of DSA\*\* journey and solved two important arra
 
 \### ✅ Next Goal:
 
-I will continue the some new quest according to the array
+I will continue the same new quest according to the array as well as string 
 
 
 
