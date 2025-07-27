@@ -14,7 +14,7 @@ class Solution {
 
         // Sort merged array using bubble sort
         for (int i = 0; i < merged.length - 1; i++) {
-            for (int j = 0; j < merged.length - 1 - i; j++) {
+            for (int j = 0; j < merged.length - i - 1; j++) {
                 if (merged[j] > merged[j + 1]) {
                     int temp = merged[j];
                     merged[j] = merged[j + 1];
