@@ -40,7 +40,7 @@ For each input string:
 
 \[AZa-z
 
-batcatpat(nat
+batcatpat(nat)
 
 
 
