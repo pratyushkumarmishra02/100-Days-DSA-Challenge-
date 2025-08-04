@@ -1,4 +1,4 @@
-\# 🚀 Day 10 – DSA Challenge
+\# 🚀 Day 12 – DSA Challenge
 
 
 
