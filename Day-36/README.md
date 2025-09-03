@@ -1,4 +1,4 @@
-\# 🚀 Day 35 – DSA Challenge
+\# 🚀 Day 36 – DSA Challenge
 
 
 

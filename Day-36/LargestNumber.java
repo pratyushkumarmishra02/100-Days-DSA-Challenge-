@@ -1,4 +1,4 @@
-class Solution {
+class LargestNumber {
     public String largestNumber(int[] nums) {
         List<String> list = new ArrayList<>();
         for(int i : nums){
